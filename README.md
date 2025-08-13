@@ -1,4 +1,4 @@
-![Profile Picture](https://your-image-link.com/image.png)
+![Profile Picture](./programmer.png)
 
 ## About
 
