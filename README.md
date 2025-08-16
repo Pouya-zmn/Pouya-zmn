@@ -17,5 +17,7 @@ Just a programmer.
 
 ### Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-zmn&layout=compact)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pouya-zmn&show_icons=true&theme=radical)
 
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Pouya-zmn.USERNAME)
