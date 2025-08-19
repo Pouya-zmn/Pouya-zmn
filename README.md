@@ -35,7 +35,5 @@ Just a programmer.
 ---
 
 ## 📊 Stats  
-
-![Pouya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pouya-zmn&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-zmn&layout=compact&theme=tokyonight)  
+![Pouya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pouya-zmn&show_icons=true&theme=tokyonight) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-zmn&layout=compact&theme=tokyonight) 
