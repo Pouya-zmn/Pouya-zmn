@@ -1,16 +1,16 @@
 ![Profile Picture](./programmer.png)
 
-## 👨‍💻 About
+## About
 Just a programmer.
 
-### 🔗 Links
+### Links
 - [Twitter](https://twitter.com/Pouya.zmn)  
 - [Instagram](https://instagram.com/pouya.zmn)  
 - [GitHub](https://github.com/Pouya-zmn)  
 
 ---
 
-## 🛠️ Skills & Technologies  
+## Skills
 
 ### Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -34,6 +34,6 @@ Just a programmer.
 
 ---
 
-## 📊 Stats  
+## Stats  
 ![Pouya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pouya-zmn&show_icons=true&theme=tokyonight) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-zmn&layout=compact&theme=tokyonight) 
